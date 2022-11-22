@@ -1,12 +1,19 @@
+<br>
+
 # Hi ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 A frontend developer from Korea
+
+<br><br>
 
 ## About Me
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:annari1017@gmail.com) 
 
 - 🍰 I love to eat and travel
+
+
+<br><br>
 
 ## Technology Stack
 
