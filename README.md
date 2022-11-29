@@ -1,5 +1,6 @@
 <br>
-
+<div align="center">
+  
 # Hi ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 I'm a frontend developer from Korea
@@ -7,10 +8,9 @@ I'm a frontend developer from Korea
 <br><br>
 
 ## About Me
+ 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:annari1017@gmail.com) 
 
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:annari1017@gmail.com) 
-
-- 🍰 I love to eat and travel
+ 🍰 I love to eat and travel
 
 
 <br><br>
@@ -29,4 +29,4 @@ I'm a frontend developer from Korea
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
-
+</div>
